@@ -1,0 +1,901 @@
+{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1922,
+    "pages": 112,
+    "isbn13": "978-1-122-33209-5",
+    "rating": 1.98,
+    "price": 621.68,
+    "authors": "Владлен Иосифович Лебедев"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1953,
+    "pages": 192,
+    "isbn13": "978-1-68646-019-7",
+    "rating": 2.99,
+    "price": 2414.77,
+    "authors": "Изот Ярославович Александров"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1918,
+    "pages": 179,
+    "isbn13": "978-0-17-081007-4",
+    "rating": 3.71,
+    "price": 1417.37,
+    "authors": "Мирослав Борисович Гришин"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1953,
+    "pages": 107,
+    "isbn13": "978-0-7909-7932-8",
+    "rating": 2.8,
+    "price": 1778.57,
+    "authors": "Полякова Глафира Михайловна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1999,
+    "pages": 127,
+    "isbn13": "978-1-81828-459-2",
+    "rating": 4.04,
+    "price": 1637.48,
+    "authors": "Евсеев Михей Давидович"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1950,
+    "pages": 200,
+    "isbn13": "978-1-59619-809-8",
+    "rating": 3.4,
+    "price": 1057.29,
+    "authors": "Евгения Филипповна Муравьева"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1946,
+    "pages": 168,
+    "isbn13": "978-0-462-26874-3",
+    "rating": 4.75,
+    "price": 1721.68,
+    "authors": "Спартак Герасимович Данилов"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1946,
+    "pages": 152,
+    "isbn13": "978-0-04-039289-1",
+    "rating": 2.35,
+    "price": 1446.4,
+    "authors": "Валерия Ефимовна Одинцова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1952,
+    "pages": 124,
+    "isbn13": "978-0-8276-1508-3",
+    "rating": 1.29,
+    "price": 1129.71,
+    "authors": "Елисей Иосифович Фокин"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1924,
+    "pages": 182,
+    "isbn13": "978-1-60814-400-6",
+    "rating": 1.9,
+    "price": 880.31,
+    "authors": "Карпов Вышеслав Арсенович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1962,
+    "pages": 145,
+    "isbn13": "978-1-01-217046-2",
+    "rating": 3.55,
+    "price": 1156.7,
+    "authors": "Кабанов Амос Якубович"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1925,
+    "pages": 117,
+    "isbn13": "978-1-84228-432-2",
+    "rating": 1.49,
+    "price": 1771.05,
+    "authors": "Светлана Феликсовна Носкова"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1927,
+    "pages": 105,
+    "isbn13": "978-1-336-48188-6",
+    "rating": 3.73,
+    "price": 1899.85,
+    "authors": "г-н Ситников Артем Феоктистович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1968,
+    "pages": 161,
+    "isbn13": "978-1-880130-59-9",
+    "rating": 1.36,
+    "price": 2782.12,
+    "authors": "Мельникова Глафира Макаровна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1960,
+    "pages": 144,
+    "isbn13": "978-0-660-75375-1",
+    "rating": 3.62,
+    "price": 1300.46,
+    "authors": "Лыткин Бажен Адрианович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1989,
+    "pages": 160,
+    "isbn13": "978-1-163-32340-3",
+    "rating": 1.15,
+    "price": 2790.5,
+    "authors": "Владимиров Вацлав Филиппович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1925,
+    "pages": 162,
+    "isbn13": "978-0-672-72654-5",
+    "rating": 2.64,
+    "price": 1484.18,
+    "authors": "Евфросиния Станиславовна Попова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1958,
+    "pages": 134,
+    "isbn13": "978-0-655-67406-1",
+    "rating": 2.07,
+    "price": 1893.0,
+    "authors": "Вишнякова Василиса Аскольдовна"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1957,
+    "pages": 196,
+    "isbn13": "978-0-441-40518-3",
+    "rating": 2.18,
+    "price": 893.76,
+    "authors": "Исакова Зоя Вадимовна"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1982,
+    "pages": 191,
+    "isbn13": "978-1-263-68919-5",
+    "rating": 4.09,
+    "price": 1383.5,
+    "authors": "Тамара Филипповна Соловьева"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1924,
+    "pages": 166,
+    "isbn13": "978-0-541-88435-2",
+    "rating": 1.03,
+    "price": 2056.7,
+    "authors": "Савельев Исидор Геннадиевич"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1980,
+    "pages": 133,
+    "isbn13": "978-0-87950-261-4",
+    "rating": 2.47,
+    "price": 1804.86,
+    "authors": "Дементьева Юлия Тарасовна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1999,
+    "pages": 166,
+    "isbn13": "978-1-938612-97-8",
+    "rating": 3.39,
+    "price": 518.57,
+    "authors": "Сигизмунд Измаилович Дьячков"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1972,
+    "pages": 116,
+    "isbn13": "978-1-313-15928-9",
+    "rating": 2.66,
+    "price": 2566.87,
+    "authors": "Исаева Юлия Валентиновна"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1953,
+    "pages": 181,
+    "isbn13": "978-1-68764-327-8",
+    "rating": 3.89,
+    "price": 947.51,
+    "authors": "Никодим Ярославович Казаков"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1942,
+    "pages": 177,
+    "isbn13": "978-0-7115-2341-8",
+    "rating": 4.97,
+    "price": 1088.45,
+    "authors": "тов. Кабанова Милица Макаровна"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1994,
+    "pages": 138,
+    "isbn13": "978-1-63843-467-2",
+    "rating": 1.98,
+    "price": 1321.33,
+    "authors": "Доронина Виктория Артемовна"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1928,
+    "pages": 128,
+    "isbn13": "978-0-489-72407-9",
+    "rating": 4.38,
+    "price": 1488.46,
+    "authors": "Еремей Владиленович Фокин"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1938,
+    "pages": 193,
+    "isbn13": "978-1-57550-996-9",
+    "rating": 1.36,
+    "price": 1887.67,
+    "authors": "Наина Васильевна Гусева"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1938,
+    "pages": 160,
+    "isbn13": "978-1-209-24724-3",
+    "rating": 4.33,
+    "price": 682.08,
+    "authors": "Боброва Валентина Аскольдовна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1972,
+    "pages": 166,
+    "isbn13": "978-1-303-34528-9",
+    "rating": 2.39,
+    "price": 2545.86,
+    "authors": "Игнатов Феликс Ермолаевич"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1980,
+    "pages": 153,
+    "isbn13": "978-0-596-82496-9",
+    "rating": 4.02,
+    "price": 1967.37,
+    "authors": "Климент Захарьевич Потапов"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1989,
+    "pages": 163,
+    "isbn13": "978-0-9716678-2-2",
+    "rating": 2.58,
+    "price": 1753.01,
+    "authors": "Носкова Зоя Руслановна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1953,
+    "pages": 166,
+    "isbn13": "978-1-232-85760-0",
+    "rating": 3.6,
+    "price": 2475.36,
+    "authors": "Клавдия Александровна Третьякова"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1940,
+    "pages": 104,
+    "isbn13": "978-1-03-211720-1",
+    "rating": 3.07,
+    "price": 2167.73,
+    "authors": "Маслов Феофан Абрамович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1911,
+    "pages": 172,
+    "isbn13": "978-1-86301-306-2",
+    "rating": 4.14,
+    "price": 2186.76,
+    "authors": "Исаева Виктория Алексеевна"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1921,
+    "pages": 110,
+    "isbn13": "978-0-87297-070-0",
+    "rating": 4.56,
+    "price": 2416.69,
+    "authors": "Кулагин Милан Чеславович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1994,
+    "pages": 123,
+    "isbn13": "978-0-358-49875-9",
+    "rating": 1.12,
+    "price": 2703.73,
+    "authors": "Игнатий Валерьянович Зимин"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1932,
+    "pages": 197,
+    "isbn13": "978-0-297-30460-9",
+    "rating": 3.54,
+    "price": 1553.18,
+    "authors": "Фаина Афанасьевна Васильева"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1997,
+    "pages": 133,
+    "isbn13": "978-1-79754-587-5",
+    "rating": 1.75,
+    "price": 2273.59,
+    "authors": "Соловьев Марк Владиславович"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1916,
+    "pages": 165,
+    "isbn13": "978-0-207-32081-1",
+    "rating": 4.98,
+    "price": 512.96,
+    "authors": "Регина Захаровна Гурьева"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1988,
+    "pages": 119,
+    "isbn13": "978-1-4181-8498-8",
+    "rating": 3.86,
+    "price": 2419.16,
+    "authors": "Алевтина Станиславовна Блохина"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1996,
+    "pages": 109,
+    "isbn13": "978-1-328-85372-1",
+    "rating": 3.91,
+    "price": 1382.64,
+    "authors": "Захарова Жанна Владимировна"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1975,
+    "pages": 109,
+    "isbn13": "978-0-607-55925-5",
+    "rating": 1.69,
+    "price": 696.97,
+    "authors": "г-жа Сысоева Анжела Болеславовна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1976,
+    "pages": 132,
+    "isbn13": "978-1-58149-389-4",
+    "rating": 2.38,
+    "price": 2066.23,
+    "authors": "Вера Кирилловна Сидорова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1979,
+    "pages": 153,
+    "isbn13": "978-0-406-19637-8",
+    "rating": 1.06,
+    "price": 927.03,
+    "authors": "Некрасова Наина Антоновна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1959,
+    "pages": 182,
+    "isbn13": "978-0-15-634766-2",
+    "rating": 4.37,
+    "price": 1499.15,
+    "authors": "Марков Юлий Артемьевич"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1945,
+    "pages": 106,
+    "isbn13": "978-0-622-27077-7",
+    "rating": 1.03,
+    "price": 2385.27,
+    "authors": "Арсений Антипович Ефремов"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1902,
+    "pages": 200,
+    "isbn13": "978-0-921087-71-7",
+    "rating": 3.98,
+    "price": 935.18,
+    "authors": "Панфилова Любовь Харитоновна"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1982,
+    "pages": 144,
+    "isbn13": "978-1-4670-1785-5",
+    "rating": 4.74,
+    "price": 873.81,
+    "authors": "Иванна Артемовна Голубева"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1994,
+    "pages": 154,
+    "isbn13": "978-1-00-405025-3",
+    "rating": 3.11,
+    "price": 1793.35,
+    "authors": "Октябрина Захаровна Герасимова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1964,
+    "pages": 188,
+    "isbn13": "978-0-547-01070-0",
+    "rating": 3.07,
+    "price": 2446.13,
+    "authors": "Титова Таисия Архиповна"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1990,
+    "pages": 182,
+    "isbn13": "978-0-361-31048-2",
+    "rating": 2.88,
+    "price": 2587.09,
+    "authors": "Денисов Емельян Виленович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1918,
+    "pages": 119,
+    "isbn13": "978-1-79328-551-5",
+    "rating": 4.39,
+    "price": 855.9,
+    "authors": "Лихачева Анжела Семеновна"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1921,
+    "pages": 200,
+    "isbn13": "978-1-273-03301-8",
+    "rating": 2.28,
+    "price": 2472.66,
+    "authors": "Федосеева Лариса Кирилловна"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1912,
+    "pages": 124,
+    "isbn13": "978-0-420-91487-3",
+    "rating": 4.12,
+    "price": 1573.97,
+    "authors": "Епифан Герасимович Гуляев"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1929,
+    "pages": 129,
+    "isbn13": "978-0-13-842004-8",
+    "rating": 1.12,
+    "price": 2167.9,
+    "authors": "Моисеева Марина Константиновна"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1913,
+    "pages": 128,
+    "isbn13": "978-1-5072-8576-3",
+    "rating": 3.49,
+    "price": 2111.03,
+    "authors": "Самсонов Максимильян Григорьевич"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1925,
+    "pages": 129,
+    "isbn13": "978-1-962368-01-8",
+    "rating": 2.67,
+    "price": 826.79,
+    "authors": "Рыбакова Глафира Эльдаровна"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1976,
+    "pages": 180,
+    "isbn13": "978-1-05-993768-4",
+    "rating": 1.18,
+    "price": 2025.44,
+    "authors": "Эмилия Геннадьевна Ларионова"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1905,
+    "pages": 182,
+    "isbn13": "978-0-565-95289-1",
+    "rating": 2.81,
+    "price": 2346.34,
+    "authors": "Трифон Давыдович Борисов"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1975,
+    "pages": 112,
+    "isbn13": "978-1-62959-421-7",
+    "rating": 1.01,
+    "price": 1082.64,
+    "authors": "Ананий Фокич Зимин"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1903,
+    "pages": 198,
+    "isbn13": "978-0-03-901298-4",
+    "rating": 4.11,
+    "price": 1842.23,
+    "authors": "Богданов Фока Феоктистович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1904,
+    "pages": 183,
+    "isbn13": "978-0-9661094-0-5",
+    "rating": 1.66,
+    "price": 2157.95,
+    "authors": "Викторин Вилорович Зыков"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1997,
+    "pages": 124,
+    "isbn13": "978-1-69232-635-7",
+    "rating": 3.56,
+    "price": 2638.24,
+    "authors": "Ермил Денисович Горбачев"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1995,
+    "pages": 105,
+    "isbn13": "978-0-399-72240-0",
+    "rating": 3.69,
+    "price": 2470.51,
+    "authors": "Лебедев Осип Игнатьевич"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1923,
+    "pages": 162,
+    "isbn13": "978-1-187-77629-2",
+    "rating": 2.82,
+    "price": 976.54,
+    "authors": "Петухова Евгения Георгиевна"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1982,
+    "pages": 130,
+    "isbn13": "978-0-379-41389-2",
+    "rating": 3.54,
+    "price": 595.37,
+    "authors": "г-жа Горшкова Майя Яковлевна"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1951,
+    "pages": 103,
+    "isbn13": "978-1-68887-590-6",
+    "rating": 1.84,
+    "price": 2986.56,
+    "authors": "Мария Геннадьевна Игнатьева"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1906,
+    "pages": 159,
+    "isbn13": "978-0-02-468192-8",
+    "rating": 1.59,
+    "price": 1272.06,
+    "authors": "Потапова Таисия Геннадьевна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1962,
+    "pages": 101,
+    "isbn13": "978-1-383-02881-2",
+    "rating": 4.79,
+    "price": 2494.27,
+    "authors": "Аникита Феоктистович Харитонов"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1960,
+    "pages": 112,
+    "isbn13": "978-1-80663-109-4",
+    "rating": 1.79,
+    "price": 2703.64,
+    "authors": "Виноградов Варлаам Викентьевич"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1977,
+    "pages": 188,
+    "isbn13": "978-1-81927-157-7",
+    "rating": 2.78,
+    "price": 2801.47,
+    "authors": "Клавдия Юльевна Константинова"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1951,
+    "pages": 162,
+    "isbn13": "978-1-59841-497-4",
+    "rating": 1.28,
+    "price": 2611.18,
+    "authors": "Коновалов Агафон Дмитриевич"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1929,
+    "pages": 180,
+    "isbn13": "978-1-377-77319-3",
+    "rating": 1.89,
+    "price": 1252.11,
+    "authors": "Бобров Евдоким Ильич"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1942,
+    "pages": 157,
+    "isbn13": "978-1-241-43964-4",
+    "rating": 3.72,
+    "price": 750.05,
+    "authors": "Эдуард Иосипович Петухов"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1942,
+    "pages": 103,
+    "isbn13": "978-1-75885-130-4",
+    "rating": 1.95,
+    "price": 1313.81,
+    "authors": "Комиссаров Фотий Абрамович"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1937,
+    "pages": 155,
+    "isbn13": "978-1-5345-8864-6",
+    "rating": 3.97,
+    "price": 1991.33,
+    "authors": "Нина Валентиновна Беляева"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1962,
+    "pages": 174,
+    "isbn13": "978-1-164-02184-1",
+    "rating": 3.05,
+    "price": 1193.29,
+    "authors": "Фаина Филипповна Мишина"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1910,
+    "pages": 132,
+    "isbn13": "978-1-68445-059-6",
+    "rating": 2.92,
+    "price": 2929.65,
+    "authors": "Фролова Зоя Игоревна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1922,
+    "pages": 189,
+    "isbn13": "978-1-9847-3527-0",
+    "rating": 1.35,
+    "price": 2082.32,
+    "authors": "Алексей Владленович Кириллов"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1968,
+    "pages": 189,
+    "isbn13": "978-1-80147-001-8",
+    "rating": 2.95,
+    "price": 2616.27,
+    "authors": "тов. Морозов Виктор Власович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1962,
+    "pages": 124,
+    "isbn13": "978-1-65724-690-4",
+    "rating": 1.35,
+    "price": 2409.99,
+    "authors": "Журавлев Тихон Вилорович"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1994,
+    "pages": 120,
+    "isbn13": "978-0-211-81246-3",
+    "rating": 2.97,
+    "price": 2474.78,
+    "authors": "Кузнецова Агафья Павловна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1999,
+    "pages": 145,
+    "isbn13": "978-1-84061-088-8",
+    "rating": 2.58,
+    "price": 910.89,
+    "authors": "Лихачева Ольга Романовна"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1952,
+    "pages": 108,
+    "isbn13": "978-0-363-24886-8",
+    "rating": 2.32,
+    "price": 983.16,
+    "authors": "Зоя Феликсовна Абрамова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1943,
+    "pages": 142,
+    "isbn13": "978-1-61169-979-1",
+    "rating": 4.04,
+    "price": 2136.06,
+    "authors": "София Максимовна Князева"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1947,
+    "pages": 113,
+    "isbn13": "978-1-5167-9030-2",
+    "rating": 2.96,
+    "price": 1389.99,
+    "authors": "Мирослав Исидорович Мельников"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1917,
+    "pages": 139,
+    "isbn13": "978-1-334-73087-0",
+    "rating": 2.78,
+    "price": 515.27,
+    "authors": "Никонова Алевтина Харитоновна"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1920,
+    "pages": 186,
+    "isbn13": "978-1-114-08544-2",
+    "rating": 1.64,
+    "price": 1719.74,
+    "authors": "Крылов Ипатий Артурович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1952,
+    "pages": 184,
+    "isbn13": "978-1-5433-8348-5",
+    "rating": 2.87,
+    "price": 1049.54,
+    "authors": "Элеонора Кузьминична Филатова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1935,
+    "pages": 109,
+    "isbn13": "978-0-8089-4913-8",
+    "rating": 2.46,
+    "price": 2235.23,
+    "authors": "Орест Чеславович Пахомов"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1923,
+    "pages": 136,
+    "isbn13": "978-1-73106-471-4",
+    "rating": 2.37,
+    "price": 1833.49,
+    "authors": "Пелагея Алексеевна Нестерова"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1968,
+    "pages": 120,
+    "isbn13": "978-0-303-98930-1",
+    "rating": 1.5,
+    "price": 711.13,
+    "authors": "Маргарита Робертовна Кудрявцева"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1918,
+    "pages": 133,
+    "isbn13": "978-1-251-24081-0",
+    "rating": 2.04,
+    "price": 2830.35,
+    "authors": "Георгий Тарасович Петров"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1948,
+    "pages": 114,
+    "isbn13": "978-1-318-30085-3",
+    "rating": 1.6,
+    "price": 644.6,
+    "authors": "Цветкова Юлия Наумовна"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1926,
+    "pages": 167,
+    "isbn13": "978-1-4186-5960-8",
+    "rating": 1.04,
+    "price": 1454.7,
+    "authors": "Калашников Александр Трифонович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1955,
+    "pages": 124,
+    "isbn13": "978-1-78814-113-0",
+    "rating": 3.42,
+    "price": 1141.9,
+    "authors": "Софрон Викторович Фомичев"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1925,
+    "pages": 174,
+    "isbn13": "978-0-7288-2836-0",
+    "rating": 2.38,
+    "price": 632.95,
+    "authors": "Рубен Изотович Якушев"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1974,
+    "pages": 156,
+    "isbn13": "978-0-678-06543-3",
+    "rating": 2.52,
+    "price": 2402.43,
+    "authors": "Захаров Ювеналий Алексеевич"
+}
