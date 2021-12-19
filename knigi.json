@@ -1,0 +1,100 @@
+{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1952,
+    "pages": 120,
+    "isbn13": "978-0-347-94097-9",
+    "rating": 3.58,
+    "price": 2670.76,
+    "authors": "Фомин Виссарион Вилорович"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1956,
+    "pages": 107,
+    "isbn13": "978-0-350-04191-5",
+    "rating": 3.48,
+    "price": 996.29,
+    "authors": "Федосеев Аким Давыдович"
+}{
+    "model": "shop_final.book",
+    "title": "Винни-Пух",
+    "year": 1966,
+    "pages": 138,
+    "isbn13": "978-1-74734-617-0",
+    "rating": 3.22,
+    "price": 2716.57,
+    "authors": "Муравьева Кира Георгиевна"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1942,
+    "pages": 166,
+    "isbn13": "978-1-7343239-3-1",
+    "rating": 4.94,
+    "price": 2938.21,
+    "authors": "Поликарп Елизарович Григорьев"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1943,
+    "pages": 132,
+    "isbn13": "978-1-03-660459-2",
+    "rating": 2.16,
+    "price": 2034.24,
+    "authors": "Архипов Аким Федотович"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1921,
+    "pages": 176,
+    "isbn13": "978-0-265-17000-7",
+    "rating": 4.54,
+    "price": 1371.57,
+    "authors": "Устинов Рубен Брониславович"
+}{
+    "model": "shop_final.book",
+    "title": "Шерлок Холмс",
+    "year": 1916,
+    "pages": 145,
+    "isbn13": "978-0-283-80700-8",
+    "rating": 2.88,
+    "price": 670.58,
+    "authors": "Евлампий Адамович Терентьев"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1969,
+    "pages": 143,
+    "isbn13": "978-1-241-50425-0",
+    "rating": 2.43,
+    "price": 2812.17,
+    "authors": "тов. Вишняков Наркис Дмитриевич"
+}{
+    "model": "shop_final.book",
+    "title": "Аэропорт",
+    "year": 1918,
+    "pages": 151,
+    "isbn13": "978-0-679-02568-9",
+    "rating": 3.12,
+    "price": 675.07,
+    "authors": "Прокофий Филатович Титов"
+}{
+    "model": "shop_final.book",
+    "title": "Мертвые души",
+    "year": 1917,
+    "pages": 115,
+    "isbn13": "978-0-647-83133-5",
+    "rating": 3.88,
+    "price": 1766.8,
+    "authors": "Ольга Васильевна Новикова"
+}{
+    "model": "shop_final.book",
+    "title": "Война и мир",
+    "year": 1916,
+    "pages": 125,
+    "isbn13": "978-1-66804-693-7",
+    "rating": 2.3,
+    "price": 543.82,
+    "authors": "Тарасов Наум Ермилович"
+}
